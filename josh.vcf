@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-REV:2026-03-03T00:00:00Z
+REV:20260303T000000Z
 N:Chanca;Josh;;;
+FN:Josh Chanca
 ORG:BINOTTO USA
 TITLE:Director of Engineering
-TEL;WORK:+18325931995
-EMAIL;INTERNET;WORK:josh.chanca@binotto.com
-X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/linkedin.com/in/josh-chanca/
-URL;WORK:https://www.binottousa.com/
-ADR;WORK:;Building 2-A;702 South Persimmon;Tomball;TX;77375;USA
+TEL;TYPE=CELL:+18325931995
+EMAIL;TYPE=WORK:josh.chanca@binotto.com
+ADR;TYPE=WORK:;;702 South Persimmon St\, Building 2-A;Tomball;TX;77375;USA
+URL:https://www.binottousa.com/
 END:VCARD
