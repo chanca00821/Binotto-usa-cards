@@ -1,15 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 26.4//EN
+REV:2026-03-03T00:00:00Z
 N:Chanca;Josh;;;
-FN:Josh Chanca
-ORG:Binotto USA;
-EMAIL;type=INTERNET;type=WORK;type=pref:josh.chanca@binotto.com
-TEL;type=CELL;type=VOICE;type=pref:(832) 593-1995
-item1.ADR;type=WORK;type=pref:;;702 South Persimmon\, Building 2-A;Tomball;TEXAS;77375;United States
-item1.X-ABADR:us
+ORG:BINOTTO USA
+TITLE:Director of Engineering
+TEL;WORK:+18325931995
+EMAIL;INTERNET;WORK:josh.chanca@binotto.com
 X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/linkedin.com/in/josh-chanca/
-URL;type=HOME;type=pref:https://www.binottousa.com
+URL;WORK:https://www.binottousa.com/
+ADR;WORK:;Building 2-A;702 South Persimmon;Tomball;TX;77375;USA
 END:VCARD
-
-
