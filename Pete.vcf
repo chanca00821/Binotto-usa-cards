@@ -1,1 +1,11 @@
-
+BEGIN:VCARD
+VERSION:3.0
+N:Roskop;Pete;;;
+FN:Pete Roskop
+ORG:BINOTTO USA
+TITLE:Territory Sales Manager
+TEL;TYPE=CELL,VOICE:+13462684623
+EMAIL;TYPE=WORK,INTERNET:pete.roskop@binotto.com
+ADR;TYPE=WORK:;;702 South Persimmon St\, Building 2-A;Tomball;TX;77375;United States
+URL:https://www.binottousa.com/
+END:VCARD
